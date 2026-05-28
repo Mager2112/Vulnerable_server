@@ -15,7 +15,7 @@ mkdir build && cd build
 cmake ..
 make
 ```
-To star this app, type:
+To start this app, type:
 ```
 ./vulnerable_server
 ```
